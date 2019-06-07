@@ -1,3 +1,7 @@
 Some random personal quots!
 
+<<<<<<< HEAD
 I dont like turtles!
+=======
+I like turtles!
+>>>>>>> personal_quotes
